@@ -15,30 +15,8 @@ Use the git clone command followed by the project repository URL (provided separ
 git clone <project_repository_URL>
 
 Folder 
-.
-└── chat/
-    ├── backend/
-    │   ├── index.js
-    │   ├── .gitignore
-    │   ├── .env
-    │   ├── user.model.js
-    │   ├── message.model.js
-    │   ├── conversation.model.js
-    │   ├── package.json
-    │   └── package-lock.json
-    └── chat/
-        ├── Public/
-        │   └── vite.svg
-        ├── src/
-        │   ├── pages/
-        │   │   ├── Home.jsx
-        │   │   ├── Chat.jsx
-        │   │   ├── Login.jsx
-        │   │   └── Register.jsx
-        │   └── assets
-        ├── index.html
-        ├── package.json
-        └── package-lock.json
+![image](https://github.com/narottamandeep2003/LAB_OS/assets/109156360/a859be1a-365f-4191-bb44-c860e870d463)
+
 
 3. Install Dependencies:
 
