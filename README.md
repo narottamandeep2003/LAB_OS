@@ -14,7 +14,9 @@ Use the git clone command followed by the project repository URL (provided separ
 
 git clone <project_repository_URL>
 
+<br/>
 Folder 
+<br/>
 ![image](https://github.com/narottamandeep2003/LAB_OS/assets/109156360/a859be1a-365f-4191-bb44-c860e870d463)
 
 
