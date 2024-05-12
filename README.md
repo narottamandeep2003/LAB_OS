@@ -17,7 +17,12 @@ git clone <project_repository_URL>
 <br/>
 Folder 
 <br/>
-![image](https://github.com/narottamandeep2003/LAB_OS/assets/109156360/a859be1a-365f-4191-bb44-c860e870d463)
+
+![image](https://github.com/narottamandeep2003/LAB_OS/assets/109156360/e9529839-5555-443e-b194-52bfd05f8cf3)
+
+
+
+<br/>
 
 
 3. Install Dependencies:
